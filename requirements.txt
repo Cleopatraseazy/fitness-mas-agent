@@ -1,0 +1,11 @@
+langchain
+langchain-google-genai
+groq
+tavily-python
+requests
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
